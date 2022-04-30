@@ -10,7 +10,7 @@ model = pickle.load(open('Breast_Cancer_Detector.pickle','rb'))
 
 @app.route('/')
 def home():
-    return render_template('cancer.html')
+    return render_template('index.html')
 
 @app.route('/about')
 def about():
@@ -24,7 +24,7 @@ def contact():
 def preiction_form():
     return render_template('prediction_form.html')
 
-@app.route('/cancer')
+@app.route('/index')
 def home_return():
     return redirect(url_for('home'))
     
