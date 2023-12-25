@@ -3,28 +3,17 @@
 ## Table of Contents
 
 - About the Project
-
-Getting Started
-
-Prerequisites
-
-Installation
-
-Usage
-
-Model Overview
-
-Dataset
-
-Training
-
-Evaluation
-
-Results
-
-Contributing
-
-Contact
+- Getting Started
+- Prerequisites
+- Installation
+- Usage
+- Model Overview
+- Dataset
+- Training
+- Evaluation
+- Results
+- Contributing
+- Contact
 
 ## About the Project
 This project aims to predict breast cancer using ensemble learning methods. It leverages the power of combining multiple machine learning models to enhance prediction accuracy and robustness. The ensemble methods implemented include Random Forest, AdaBoost, and Gradient Boosting.
