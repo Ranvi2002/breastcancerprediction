@@ -1,19 +1,29 @@
 **Breast Cancer Prediction using Ensemble Methods**
 
 Table of Contents
+
 About the Project
+
 Getting Started
+
 Prerequisites
+
 Installation
+
 Usage
+
 Model Overview
+
 Dataset
+
 Training
+
 Evaluation
+
 Results
+
 Contributing
-License
-Acknowledgments
+
 Contact
 
 **About the Project**
