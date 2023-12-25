@@ -1,8 +1,8 @@
 # Breast Cancer Prediction using Ensemble Methods
 
-Table of Contents
+## Table of Contents
 
-About the Project
+--> About the Project
 
 Getting Started
 
