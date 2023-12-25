@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
---> About the Project
+- About the Project
 
 Getting Started
 
